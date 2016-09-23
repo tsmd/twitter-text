@@ -1,6 +1,6 @@
 {
   "name": "twitter-text-tweetlength-js",
-  "description": "official twitter text linkification",
+  "description": "subset of official twitter-text library dedicated to counting tweet length",
   "version": "1.14.0",
   "main": "./twitter-text.js",
   "files": [
