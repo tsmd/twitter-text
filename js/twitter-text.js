@@ -1,3 +1,8 @@
+/**
+ * @file twitter-text.js
+ * Originally created by Twitter, Inc.
+ * Modified by Takayuki Shimada <taka@tsmd.jp>
+ */
 (function() {
   if (typeof twttr === "undefined" || twttr === null) {
     var twttr = {};
