@@ -1,5 +1,5 @@
 {
-  "name": "twitter-text-js",
+  "name": "twitter-text-tweetlength-js",
   "main": "js/twitter-text.js",
   "ignore": [
     "conformance/*",
