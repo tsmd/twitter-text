@@ -153,6 +153,7 @@
         module(suite);
 
         for (var section in cases[suite]) {
+          if (suite !== "validate" || section !== "lengths") continue;
           (function(section) {
             var tester = getTester(suite, section);
             test(section, function() {
