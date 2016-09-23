@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/twitter-text-tweetlength-js.svg)](https://www.npmjs.com/package/twitter-text-tweetlength-js)
+[![Build Status](https://img.shields.io/travis/tsmd/twitter-text-tweetlength-js.svg)](https://travis-ci.org/tsmd/twitter-text-tweetlength-js) [![npm](https://img.shields.io/npm/v/twitter-text-tweetlength-js.svg)](https://www.npmjs.com/package/twitter-text-tweetlength-js) [![Bower](https://img.shields.io/bower/v/twitter-text-tweetlength-js.svg)](http://bower.io/search/?q=twitter-text-tweetlength-js)
 
 ## twitter-text-tweetlength-js
 
