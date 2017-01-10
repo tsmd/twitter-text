@@ -1,6 +1,6 @@
 {
   "name": "twitter-text-tweetlength-js",
-  "version": "1.14.1",
+  "version": "1.14.3",
   "main": ["./twitter-text.js"],
   "dependencies": {
   }

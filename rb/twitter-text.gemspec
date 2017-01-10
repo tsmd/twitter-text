@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "twitter-text"
-  s.version = "1.14.0"
+  s.version = "1.14.3"
   s.authors = ["Matt Sanford", "Patrick Ewing", "Ben Cherry", "Britt Selvitelle",
                "Raffi Krikorian", "J.P. Cummins", "Yoshimasa Niwa", "Keita Fujii", "James Koval"]
   s.email = ["matt@twitter.com", "patrick.henry.ewing@gmail.com", "bcherry@gmail.com", "bs@brittspace.com",
@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "multi_json", "~> 1.3"
   s.add_development_dependency "nokogiri", "~> 1.5.10"
-  s.add_development_dependency "rake"
+  s.add_development_dependency "rake", "~> 11.1" # 12 removes method named `last_comment`
   s.add_development_dependency "rdoc"
   s.add_development_dependency "rspec", "~> 2.14.0"
   s.add_development_dependency "simplecov", "~> 0.8.0"
